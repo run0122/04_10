@@ -8,7 +8,9 @@
 
 ![Image3](/image/Chat3.PNG)
 
-## 3. Blink Without Delay
+본인의 serial_read_timer_practice.ino를 더 깔끔하게 수정하기 위해 ChatGPT에 요청해보니깐 잘 개선해주었습니다. 제 소스코드의 부족한 부분을 다시 살펴보는 기회가 됐습니다.
+
+## 2. Blink Without Delay
 
 ```
 const int ledPin = 10;
