@@ -3,4 +3,4 @@
 
 ## 1. Chat GPT 코드 개선
 
-![Image1](/git_log.PNG)
+![Image1](/image/Chat1.PNG)
